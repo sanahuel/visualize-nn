@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visualize-nn/static/css/main.5135e64e.css",
+    "main.js": "/visualize-nn/static/js/main.9ef8cc69.js",
+    "index.html": "/visualize-nn/index.html",
+    "main.5135e64e.css.map": "/visualize-nn/static/css/main.5135e64e.css.map",
+    "main.9ef8cc69.js.map": "/visualize-nn/static/js/main.9ef8cc69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5135e64e.css",
+    "static/js/main.9ef8cc69.js"
+  ]
+}
