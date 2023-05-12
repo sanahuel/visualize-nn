@@ -334,7 +334,7 @@ function App() {
         <Layer28 z={15} />
         <Layer14 z={35} />
         <Layer10 z={50} />
-        <LineLayers />
+        {/* <LineLayers /> */}
       </Canvas>
       <div className="canvas-div">
         <canvas
