@@ -214,7 +214,9 @@ function App() {
   // Load the model
   useEffect(() => {
     async function loadModel() {
-      const model = await tf.loadLayersModel("/tfjs_model/model.json");
+      const model = await tf.loadLayersModel(
+        "https://sanahuel.github.io/visualize-nn/tfjs_model/model.json"
+      );
       setModel(model);
       setModelLoaded(true);
       console.log("Model Loaded:", model.layers);
